@@ -1,0 +1,16 @@
+.coming_soon_wrapper{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.coming_soon_text {
+    color: white;
+    font-size: 64px;
+    font-weight: 400;
+}
